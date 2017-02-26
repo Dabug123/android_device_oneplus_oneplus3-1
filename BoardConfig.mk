@@ -117,6 +117,7 @@ QCOM_BT_USE_BTNV := true
 
 # Camera
 BOARD_QTI_CAMERA_32BIT_ONLY := true
+TARGET_CAMERA_APP := Camera2
 USE_DEVICE_SPECIFIC_CAMERA := true
 
 # Charger
